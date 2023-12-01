@@ -1,0 +1,16 @@
+{
+  "name": "adventofcode-2023",
+  "scripts": {
+    "run-1": "tsc && node dist/1.js",
+    "run-2": "tsc && node dist/2.js"
+  },
+  "author": "Nicholas De Raj",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.1"
+  }
+}
